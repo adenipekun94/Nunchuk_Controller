@@ -1,0 +1,37 @@
+#######################################
+# Syntax Coloring Map For Nunchuck
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+initialize	KEYWORD2
+readData	KEYWORD2
+printData	KEYWORD2
+getJoyX	KEYWORD2
+getJoyY	KEYWORD2
+getAccX	KEYWORD2
+getAccY	KEYWORD2
+getAccZ	KEYWORD2
+getBtnC KEYWORD2
+getBtnZ KEYWORD2
+cButtonPressed KEYWORD2
+zButtonPressed KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+Nunchuck	KEYWORD1
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+WIRED_NUNCHUCK LITERAL1
+WIRELESS_KAMA_NUNCHUK LITERAL1
