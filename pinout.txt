@@ -1,0 +1,17 @@
+Arduino nano pinout
+      __________   
+     -|13      12|-  SV2.2 (RGB1)
+     -|3V3     11|-  SV2.3 (RGB1)
+     -|AREF    10|-  SV2.4 (RGB1)
+R2   -|A0       9|-  SV3.2 (RGB2)
+X2.3 -|A1       8|-  SV3.3 (RGB2)
+     -|A2       7|-  SV3.4 (RGB2)
+     -|A3       6|-  SV4.2 (WS28xx Signal)
+SDA  -|A4       5|-  SV1.3 (Servo Signal)
+SCL  -|A5       4|- 
+     -|NC       3|-  X2.1
+     -|NC       2|-  X2.2
+     -|5V     GND|-
+     -|Res    Res|-
+     -|GND     Rx|-  X3.2
+     -|Vin     Tx|-  X3.2
